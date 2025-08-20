@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/../LSL/lsl_latency_analysis/.idea/lsl_latency_analysis.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/DefaultPython3/bin/python" />
+              <option name="sdkName" value="Python 3.8 (DefaultPython3)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../eeg_analysis/.idea/eeg_analysis.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/DefaultPython3/bin/python" />
+              <option name="sdkName" value="Python 3.8 (DefaultPython3)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../screenshots_processing/.idea/screenshots_processing.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/DefaultPython3/bin/python" />
+              <option name="sdkName" value="Python 3.8 (DefaultPython3)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Local/lsl_latency_analysis/.idea/lsl_latency_analysis.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/data/wd_village_eye_tracking/.idea/wd_village_eye_tracking.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/DefaultPython3/bin/python" />
+              <option name="sdkName" value="Python 3.8 (DefaultPython3)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/yy/s3wgmwl10fg_cc7cb_s92snr0000gn/T/images_processing.ipynb/.idea/images_processing.ipynb.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="$PROJECT_DIR$/../LSL/lsl_latency_analysis/venv/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/yy/s3wgmwl10fg_cc7cb_s92snr0000gn/T/images_processing.ipynb1/.idea/images_processing.ipynb1.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/DefaultPython3/bin/python" />
+              <option name="sdkName" value="Python 3.8 (DefaultPython3)" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/yy/s3wgmwl10fg_cc7cb_s92snr0000gn/T/images_processing.ipynb2/.idea/images_processing.ipynb2.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+        <entry key="/private/var/folders/yy/s3wgmwl10fg_cc7cb_s92snr0000gn/T/images_processing.ipynb6/.idea/images_processing.ipynb6.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="/opt/anaconda3/envs/PyCharmLearningProject/bin/python" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
