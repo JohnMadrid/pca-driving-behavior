@@ -2,3 +2,7 @@
 data/
 
 results/
+
+# Non-main notebooks (main workflow is 0..4)
+loadings-analysis.ipynb
+extra_biplot_cos_videos.ipynb
