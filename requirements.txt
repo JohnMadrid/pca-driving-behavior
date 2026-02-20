@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+dask
+distributed
+dataframe-image
+opencv-python
+tqdm
+ipywidgets
+plotly
+mpmath
+researchpy
+pca
+xarray
