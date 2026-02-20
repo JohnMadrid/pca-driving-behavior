@@ -19,7 +19,7 @@ Expected core data files:
   - `EEDA_autonomous_raw_unitvectors.csv`
   - `EEDA_manual_raw_unitvectors.csv`
 - Cleaned data
-  - `EEDA_cleaned.csv`
+  - `EEDA_cleaned.csv` (unzip `EEDA_cleaned.csv.zip`)
 - Questionnaire data
   - `EEDA_Qdata.csv`
 
