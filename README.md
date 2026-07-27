@@ -19,7 +19,7 @@ Expected core data files:
   - `EEDA_autonomous_raw_unitvectors.csv`
   - `EEDA_manual_raw_unitvectors.csv`
 - Cleaned data
-  - `EEDA_cleaned.csv`
+  - `EEDA_cleaned.csv` (unzip `EEDA_cleaned.csv.zip`)
 - Questionnaire data
   - `EEDA_Qdata.csv`
 
@@ -79,5 +79,5 @@ Place raw CSV files in `raw/`:
 ## Reproducibility Notes
 
 - Keep the project folder structure unchanged after downloading from OSF.
-- Upload notebooks/code and data to their respective OSF components.
+- Computations in `0_preprocessing.ipynb` take long, thus a cleaned dataset is provided
 
